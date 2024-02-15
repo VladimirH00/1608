@@ -3,6 +3,8 @@ git config user.email "example@example.com"
 git log --oneline --graph --branches
 git log --graph --date=short --branches --pretty=format:'%C(yellow)%h%C(reset) %ad | %C(75)%s%C(reset) %C(yellow)%d%C(reset) [%an]'
 
+
+some feature
 git config user.name "example"
 git config user.email "example@example.com"
 git log --oneline --graph --branches
@@ -11,19 +13,4 @@ git config user.name "example"
 git config user.email "example@example.com"
 git log --oneline --graph --branches
 git log --graph --date=short --branches --pretty=format:'%C(yellow)%h%C(reset) %ad | %C(75)%s%C(reset) %C(yellow)%d%C(reset) [%an]'
-git config user.name "example"
-git config user.email "example@example.com"
-git log --oneline --graph --branches
-git log --graph --date=short --branches --pretty=format:'%C(yellow)%h%C(reset) %ad | %C(75)%s%C(reset) %C(yellow)%d%C(reset) [%an]'
-git config user.name "example"
-git config user.email "example@example.com"
-git log --oneline --graph --branches
-git log --graph --date=short --branches --pretty=format:'%C(yellow)%h%C(reset) %ad | %C(75)%s%C(reset) %C(yellow)%d%C(reset) [%an]'
-git config user.name "example"
-git config user.email "example@example.com"
-git log --oneline --graph --branches
-git log --graph --date=short --branches --pretty=format:'%C(yellow)%h%C(reset) %ad | %C(75)%s%C(reset) %C(yellow)%d%C(reset) [%an]'
-git config user.name "example"
-git config user.email "example@example.com"
-git log --oneline --graph --branches
-git log --graph --date=short --branches --pretty=format:'%C(yellow)%h%C(reset) %ad | %C(75)%s%C(reset) %C(yellow)%d%C(reset) [%an]'
+
