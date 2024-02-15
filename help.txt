@@ -3,4 +3,5 @@ git config user.email "example@example.com"
 git log --oneline --graph --branches
 git log --graph --date=short --branches --pretty=format:'%C(yellow)%h%C(reset) %ad | %C(75)%s%C(reset) %C(yellow)%d%C(reset) [%an]'
 
-           hello
+
+some feature
